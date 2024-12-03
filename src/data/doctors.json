@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "fullName": "Dr. John Doe",
+      "department": "cardiology",
+      "role": "doctor",
+      "isHead": true
+    },
+    {
+      "id": 2,
+      "fullName": "Dr. Jane Smith",
+      "department": "surgery",
+      "role": "doctor",
+      "isHead": false
+    }
+]

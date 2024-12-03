@@ -1,0 +1,14 @@
+[
+    {
+      "id": 1,
+      "fullName": "Nurse Alice Johnson",
+      "department": "cardiology",
+      "role": "nurse"
+    },
+    {
+      "id": 2,
+      "fullName": "Nurse Bob Brown",
+      "department": "surgery",
+      "role": "nurse"
+    }
+]
